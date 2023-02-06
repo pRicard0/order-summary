@@ -64,11 +64,11 @@ body {
     margin-left: 0.9375rem;
     display: flex;
     flex-direction: column;
-    margin-right: 5.625rem;
+    margin-right: 4.75rem;
 }
 
 #music-icon {
-    margin-left: 0.625rem;
+    margin-left: 0.6rem;
 }
 
 .plan-text .text {margin: 0px;}
@@ -80,6 +80,7 @@ body {
 }
 
 .change {
+    margin-left: 0.9375rem;
     margin-right: 1.875rem;
     color: var(--Bright-blue);
     font-weight: 700;
