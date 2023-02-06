@@ -29,13 +29,13 @@ body {
 .card {
     background-color: white;
     width: 450px;
-    height: 640px;
+    min-height: 640px;
     overflow: hidden;
     border-radius: 20px;
 }
 
 .text-section {
-    padding: 40px 60px;
+    padding: 40px 60px 0px 60px;
 }
 
 .title {
