@@ -48,6 +48,7 @@ body {
     color: var(--Desaturated-blue);
     text-align: center;
     margin-top: 1.5625rem;
+    line-height: 1.05px;
 }
 
 .plan {
