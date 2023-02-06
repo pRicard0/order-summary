@@ -47,28 +47,28 @@ body {
 .text {
     color: var(--Desaturated-blue);
     text-align: center;
-    margin-top: 15px;
+    margin-top: 1.5625rem;
 }
 
 .plan {
     background-color: var(--Very-pale-blue);
     border-radius: 10px;
     margin-top: 25px;
-    height: 80px;
+    min-height: 80px;
     display: flex;
     justify-content: space-between;
     align-items: center;
 }
 
 .plan-text {
-    margin-left: 15px;
+    margin-left: 0.9375rem;
     display: flex;
     flex-direction: column;
-    margin-right: 90px;
+    margin-right: 5.625rem;
 }
 
 #music-icon {
-    margin-left: 10px;
+    margin-left: 0.625rem;
 }
 
 .plan-text .text {margin: 0px;}
@@ -80,7 +80,7 @@ body {
 }
 
 .change {
-    margin-right: 10px;
+    margin-right: 1.875rem;
     color: var(--Bright-blue);
     font-weight: 700;
     display: flex;
@@ -95,8 +95,8 @@ body {
 
 .payment {
     width: 100%;
-    margin-top: 30px;
-    height: 45px;
+    margin-top: 1.875rem;
+    min-height: 45px;
     color: white;
     background-color: var(--Bright-blue);
     border-radius: 10px;
@@ -113,7 +113,7 @@ body {
 }
 
 .cancel {
-    height: 80px;
+    min-height: 80px;
     width: 100%;
     display: flex;
     justify-content: center;
